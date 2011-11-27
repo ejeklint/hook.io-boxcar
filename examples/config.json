@@ -1,0 +1,13 @@
+{
+  "boxcar": {
+    "providerKey": "fF46....",
+    "providerSecret": "3G6k....",
+    "username": "x@y.com",
+    "password": "abc",
+    "fromScreenName": "",
+    "fromRemoteServiceId": "",
+    "redirectPayload": "",
+    "sourceUrl": "",
+    "iconUrl": ""
+  }
+}

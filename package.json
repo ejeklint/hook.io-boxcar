@@ -1,0 +1,24 @@
+{
+  "author": "Per Ejeklint <ejeklint@me.com>",
+  "name": "hook.io-boxcar",
+  "description": "Provides a hook to your Boxcar service, sending and receiving notifications",
+  "keywords" : [ "hook", "hook.io", "boxcar", "notifications", "iOS", "iPhone", "iPad"],
+  "version": "0.2.0",
+  "bugs" : { "url" : "http://github.com/ejeklint/boxcar/issues" },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ejeklint/boxcar.git"
+  },
+  "bin": {
+     "hookio-boxcar": "./bin/boxcar"
+   },
+  "main": "./lib/boxcar",
+  "engines": {
+    "node": ">= v0.4.7"
+  },
+  "dependencies": {
+    "hook.io" : "0.7.x",
+    "boxcar": "0.9.x"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var BoxcarHook = require('../lib/boxcar').BoxcarHook;
+
+var myhook = new BoxcarHook({
+  name: "the-boxcar-hook"
+});
+
+myhook.start();
