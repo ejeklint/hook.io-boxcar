@@ -14,10 +14,10 @@
    },
   "main": "./lib/boxcar",
   "engines": {
-    "node": ">= v0.4.7"
+    "node": ">= v0.6.x"
   },
   "dependencies": {
-    "hook.io" : "0.7.x",
+    "hook.io" : "0.8.x",
     "boxcar": "0.9.x"
   },
   "devDependencies": {}

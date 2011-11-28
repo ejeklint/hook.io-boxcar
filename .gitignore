@@ -2,6 +2,5 @@
 *.esproj
 *.espressostorage
 *.log
-config.json
-!examples/config.json
+/config.json
 node_modules/
